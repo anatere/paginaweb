@@ -1,0 +1,133 @@
+
+body{
+	background:#e1e6e6; 
+}
+/* Inicia Caja de Mision*/
+.mision{
+	font-size: 20px;
+	text-align: center;
+	background: #e3beb8;
+	padding: 1em;
+	width: 40%;
+	display: inline-block;
+}
+.mision h3{ 
+	font-size: 30px;
+	background-color: #e56351;
+	font-family: Consolas;
+
+ }
+.mision img{
+	object-position: center;
+	width: 200px;
+	height: 150px;
+}
+/* Termina Caja de Mision*/
+
+/* Inicia Caja de Vision*/
+.vision{
+	font-size: 20px;
+	background: #e3beb8;
+	padding: 1em;
+	width:40%;
+	text-align: center;
+	display: inline-block;
+}
+.vision h3{
+	font-size: 30px;
+	background-color: #e56351;
+	font-family: Consolas;
+}
+.vision img {
+	object-position: center;
+	width: 200px;
+	height: 150px;
+}
+/* Termina Caja de Vision*/
+
+/*Inicia Caja de Titulo*/
+#logo{
+	width: 1345px;
+	height: 100px;
+	background: url(../img/fondo1.jpg);		
+}
+.slogan{
+	font-size: 20px;
+	text-align: center;
+}
+h1 {
+	font-size: 35px; 
+	font-style: italic;
+	text-align: center;
+	font-family: Cooper Black;
+}
+/*Termina Caja de Titulo*/
+
+/* Inicia Menu*/
+#header{
+	margin: auto;
+	width:700px;
+	font-family: Time New Roman;
+	font-size: 20px;
+}
+ul, ol {
+	list-style: none;
+}
+.nav li a {
+	background-color: #edc1e3; 
+	text-decoration: none;
+	padding: 15px 40px;
+	display: block;
+}
+.nav li a:hover {
+	background-color: #434343;
+}
+.nav > li {
+	float:left;
+}
+.nav li ul {
+	display:none;
+	position: absolute;
+	min-width: 140px;
+}
+.nav li:hover > ul {
+	display: block;
+}
+/* Termina Menu*/
+
+/* Inicia Galeria*/
+.slider {
+	width:95%;
+	margin:auto;
+	overflow: hidden;
+}
+.slider ul{
+	display: flex;
+	padding: 0;
+	width: 400%;
+
+	animation: cambio 20s infinite;
+	animation-direction: alternate;
+}
+.slider li{
+	width: 100%;
+	list-style: none;
+}
+.slider img {
+	width: 900px;
+	height: 300px;
+}
+@keyframes cambio {
+	0%{margin-left: 0;}
+	20%{margin-left: 0;}
+
+	25%{margin-left: -100%;}
+	45%{margin-left: -100%;}
+
+	50%{margin-left: -200%;}
+	70%{margin-left: -200%;}
+
+	75%{margin-left: -300%;}
+	95%{margin-left: -300%;}
+}
+/* Termina Galeria*/

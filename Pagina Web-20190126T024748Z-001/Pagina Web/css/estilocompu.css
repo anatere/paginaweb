@@ -1,0 +1,43 @@
+
+body{
+	background:  #dde071   ; 
+}
+.link{
+	font-size: 25px;
+	text-align: center;
+}
+.titulo{
+	width: 1345px;
+	height: 80px;
+	background: url(../img/fondo1.jpg);
+}
+.titulo h1{
+	font-size: 35px; 
+	font-style: italic;
+	text-align: center;
+	font-family: Cooper Black;
+}
+.sub1{
+	background-color:   #e4933d ;
+	text-align: center;
+}
+.compu{
+	background:  #949bb8 ;
+	padding: 2em;
+	width:35%;
+	text-align: center;
+	display: inline-block;
+}
+.compu img{
+	max-width: 100%
+}
+.compu2{
+	background:   #1ac0a4  ;
+	padding: 2em;
+	width:35%;
+	text-align: center;
+	display: inline-block;
+}
+.compu2 img{
+	max-width: 100%
+}

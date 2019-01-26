@@ -1,0 +1,82 @@
+
+body{
+	background: #c5b3dc  ; 
+}
+.link{
+	font-size: 25px;
+	text-align: center;
+}
+.titulo{
+	width: 1345px;
+	height: 80px;
+	background: url(../img/fondo1.jpg);
+}
+.titulo h1{
+	font-size: 35px; 
+	font-style: italic;
+	text-align: center;
+	font-family: Cooper Black;
+}
+.sub1{
+	background-color:  #6fecd2;
+	text-align: center;
+}
+.tablets{
+	background: #df86d2;
+	padding: 2em;
+	width:50%;
+	text-align: center;
+	display: inline-block;
+	border:2px solid black;
+
+}
+.tablets img{
+	max-width: 100%;
+}
+.tablets2{
+	background: #dc43c3 ;
+	padding: 2em;
+	width:50%;
+	text-align: center;
+	display: inline-block;
+	border:2px solid black;
+}
+.tablets2 img{
+	max-width: 100%;
+}
+.tablets3{
+	background:  #c6769f ;
+	padding: 2em;
+	width:50%;
+	text-align: center;
+	display: inline-block;
+	border:2px solid black;
+
+}
+.tablets3 img{
+	max-width: 100%;
+}
+.tablets4{
+	background: #e576a0  ;
+	padding: 2em;
+	width:50%;
+	text-align: center;
+	display: inline-block;
+	border:2px solid black;
+
+}
+.tablets4 img{
+	max-width: 100%;
+}
+.tablets5{
+	background: #e576a0  ;
+	padding: 2em;
+	width:50%;
+	text-align: center;
+	display: inline-block;
+	border:2px solid black;
+
+}
+.tablets5 img{
+	max-width: 100%;
+}

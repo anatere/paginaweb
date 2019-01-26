@@ -1,0 +1,63 @@
+
+body{
+	background: #ccc7d4 ; 
+}
+.link{
+	font-size: 25px;
+	text-align: center;
+}
+.titulo{
+	width: 1345px;
+	height: 80px;
+	background: url(../img/fondo1.jpg);
+}
+.titulo h1{
+	font-size: 35px; 
+	font-style: italic;
+	text-align: center;
+	font-family: Cooper Black;
+}
+.sub1{
+	background-color:  #6a6859;
+	text-align: center; 
+}
+.iphone{
+	background: #df86d2;
+	padding: 2em;
+	width:25%;
+	text-align: center;
+	display: inline-block;
+}
+.iphone img{
+	max-width: 100%
+}
+.sub2{
+	background-color:  #a24545  ;
+	text-align: center; 
+}
+.samsung{
+	background:  #88dd95 ;
+	padding: 2em;
+	width:25%;
+	text-align: center;
+	display: inline-block;
+}
+.samsung img{
+	max-width: 100%
+}
+.sub3{
+	background-color:  #6c6262;
+	text-align: center;
+}
+.huawei{
+	background: #e3687e  ;
+	padding: 2em;
+	width:25%;
+	text-align: center;
+	display: inline-block;
+}
+.huawei img{
+	max-width: 100%
+}
+
+
