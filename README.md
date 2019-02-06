@@ -13,6 +13,7 @@ https://anatere.github.io/paginaweb/VentaCelulares
 - _merge:_ Se usa para fusionar una rama con otra rama
 
 ##**Nombra las fases de GIT y que pasa en cada una de ella**
+
 Consiste en 3 fases :
 1. Working Directory
 2. Staging Area
@@ -30,6 +31,7 @@ quedaria nuestro repositorio. En esta fase el codigo tiene el status de preparad
 -La ultima fase Git Repository en esta fase ya se sube al servidor git y el codigo esta en el status confirmado
 
 ##**¿Que son las cosas que NO se deben hacer en un repositorio de GIT?**
+
 * Nunca debes de hacer commit directamente en el master
 * Nunca hacer git-push --force ya que los commits que han sido realizado, enviados y colocados enciama del estado actual
 * Nunca subir archivos binarios
