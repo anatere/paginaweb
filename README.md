@@ -1,18 +1,18 @@
 # paginaweb
 https://anatere.github.io/paginaweb/VentaCelulares
 
-##Que significan y para que sirven las siguientes palabras claves..
-- local
-- remote: Para que nos muestre los repositorios clonados
-- init: Inicializa un repositorio en un directorio existente
-- clone: Clona un repositorio existente
-- add: Agrega un archivo al respositorio
-- commit: Se comenta cada archivo que se suba al repositorio
-- push: Se sube al git en el repositorio correspondiente
-- pull: Sirve para poder fusionar todos los cambios que se ha hecho en el repositorio
-- merge: Se usa para fusionar una rama con otra rama
+##**Que significan y para que sirven las siguientes palabras claves..**
+- _local_
+- _remote:_ Para que nos muestre los repositorios clonados
+- _init:_ Inicializa un repositorio en un directorio existente
+- _clone:_ Clona un repositorio existente
+- _add:_ Agrega un archivo al respositorio
+- _commit:_ Se comenta cada archivo que se suba al repositorio
+- _push:_ Se sube al git en el repositorio correspondiente
+- _pull:_ Sirve para poder fusionar todos los cambios que se ha hecho en el repositorio
+- _merge:_ Se usa para fusionar una rama con otra rama
 
-##Nombra las fases de GIT y que pasa en cada una de ella
+##**Nombra las fases de GIT y que pasa en cada una de ella**
 Consiste en 3 fases :
 1. Working Directory
 2. Staging Area
@@ -29,10 +29,10 @@ codigo tiene un status de modificado.
 quedaria nuestro repositorio. En esta fase el codigo tiene el status de preparado
 -La ultima fase Git Repository en esta fase ya se sube al servidor git y el codigo esta en el status confirmado
 
-##¿Que son las cosas que NO se deben hacer en un repositorio de GIT?
+##**¿Que son las cosas que NO se deben hacer en un repositorio de GIT?**
 * Nunca debes de hacer commit directamente en el master
 * Nunca hacer git-push --force ya que los commits que han sido realizado, enviados y colocados enciama del estado actual
 * Nunca subir archivos binarios
 
-##¿A que año debía volver Marty McFly para reestablecer la linea de tiempo?
+##**¿A que año debía volver Marty McFly para reestablecer la linea de tiempo?**
 En 1988
