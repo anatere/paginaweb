@@ -27,7 +27,9 @@ Cuando terminas de rellenar los campos le das click en el botón Create Reposito
 
 - Abrimos nuestra terminal desde la carpeta donde estés guardando tus proyectos o tambien por medio de comandos se puede entrar a la carpeta para hacer esto necesitas utilizar el comando:
 
-'cd (nombre de la carpeta)'
+~~~
+cd (nombre de la carpeta)
+~~~
 
 - Cuando estemos adentro de la carpeta en la terminal pondremos los siguiente comandos:
 
