@@ -33,30 +33,38 @@ cd (nombre de la carpeta)
 
 - Cuando estemos adentro de la carpeta en la terminal pondremos los siguiente comandos:
 
-'git init'
+~~~
+git init
+~~~
 
 Este comando solo se utiliza solo cuando es un nuevo proyecto
 
  Despues ingresamos el siguiente comando:
-
- 'git status'
+ 
+~~~
+git status
+~~~
 
  Este comando nos sirve para ver los archivos que tenemos en la carpeta de nuestro repositorio
 
  Despues con el siguiente comando:
 
- 'git add .'
-
+~~~
+ git add .
+~~~
  Con este comando se agrega al Repositorio
 
  Una vez agregado al repositorio proseguimos ingresar el siguiente comando:
 
- 'git commit -m "Un comentario del archivo"'
+ ~~~
+ git commit -m "Un comentario del archivo"
+~~~
 
  Este comando es para poner un comentario descriptivo del archivo que agregamos
 
  Despues de hacer el comentario procedemos a subir el archivo al github
-
- 'git push -u origin master'
-
+ 
+~~~
+ git push -u origin master
+~~~
  Y eso seria todo para subir el proyecto al git.
