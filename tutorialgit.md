@@ -4,7 +4,7 @@
 
 - Primero entras al link de github [Entrar a github](https://github.com/)
 
-![Interfaz](/home/ana/Imágenes/interfaz.png)
+![Interfaz](/img/interfaz.png)
 
 - En la esquina de lado derecho esta el símbolo de mas(+) y aparece la opción de New Repository te mandara este formulario
 
