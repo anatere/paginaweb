@@ -8,14 +8,14 @@
 
 - En la esquina de lado derecho esta el símbolo de mas(+) y aparece la opción de New Repository te mandara este formulario
 
-![Repository](/home/ana/Imágenes/createrepository.png)
+![Repository](/img/createrepository.png)
 
 En esta parte te pide que pongas el nombre del repositorio, una descripción opcional de tu repositorio y si sera publico o privado.
 Cuando terminas de rellenar los campos le das click en el botón Create Repository.
 
 -Como ultimo paso te aparece la siguiente ventana donde esta el repositorio creado:
 
-![Repositorio creado](/home/ana/Imágenes/repository.png)
+![Repositorio creado](/img/repository.png)
 
 ***
 
