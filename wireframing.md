@@ -1,6 +1,7 @@
 #Wireframing
 
 ##Pagina de Inicio
+
 En esta ventana sera lo que aparezca al momento de ingresar a la pagina principal como podemos observar contara con un color de fondo de tono pastel y tendrá un titulo teniendo de fondo una imagen de colores llamativos.
 También tendrá un menú donde se encontrara las opciones para navegar en la pagina, se pondrá una galería con imágenes de los artículos que se mostrará en la pagina web
 
